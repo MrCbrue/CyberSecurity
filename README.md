@@ -8,7 +8,7 @@ Topics include:
 
 -Web & Netowrk Security
 
--Linux Note
+-Linux Notes
 
 -Mics. Notes and Projects
 
