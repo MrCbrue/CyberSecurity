@@ -1,0 +1,2 @@
+# Commit Formatting
+Ive learned that with git you can commit multiple changes at once. This will be useful to keep my commits compact and organized. Ive also learned that commits should be in the present tesne, for example instead of saying fixed or added you would say fix or add.
