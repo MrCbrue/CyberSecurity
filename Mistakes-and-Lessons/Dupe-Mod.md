@@ -1,8 +1,8 @@
 # Minecraft Duper
 
-This is a recollection of something that happened about 3 months ago, so my information may not be totally accurate.
+This is a recollection of something that happened about 3 months ago (mid-late 2025), so my information may not be totally accurate.
 
-This piece of malware was also documented on a youtube channel by the name of Eric Parker: https://www.youtube.com/watch?v=ssPizIS3x0w
+This piece of malware was also documented on a youtube channel by the name of Eric Parker: https://youtu.be/-pwgNDCS6QM?si=XRfIfQH___k2h8QL
 
 ## Setup and Execution
 
@@ -24,7 +24,7 @@ Most dupes are executed with no mods at all, UIUtils, or custom scripts develope
 
 ### Previous Experience
 
-This is only isolated to me. I had watched a video earlier that year with the EXACT piece of malware that I had downloaded (Eric Parker Youtube: https://www.youtube.com/watch?v=ssPizIS3x0w). This should have been in my memory that people were using minecraft mods to hack systems.
+This is only isolated to me. I had watched a video earlier that year with the EXACT piece of malware that I had downloaded (Eric Parker Youtube: https://youtu.be/-pwgNDCS6QM?si=XRfIfQH___k2h8QL). This should have been in my memory that people were using minecraft mods to hack systems.
 
 ## Lessons
 
